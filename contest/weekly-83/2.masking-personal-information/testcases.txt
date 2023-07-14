@@ -1,0 +1,14 @@
+input:
+"LeetCode@LeetCode.com"
+output:
+"l*****e@leetcode.com"
+
+input:
+"AB@qq.com"
+output:
+"a*****b@qq.com"
+
+input:
+"1(234)567-890"
+output:
+"***-***-7890"
